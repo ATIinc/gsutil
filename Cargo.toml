@@ -42,6 +42,6 @@ tame-oauth = { version = "0.10", features = ["gcp"] }
 # Timestamp formatting
 time = { version = "0.3", features = ["formatting", "macros"] }
 # Async runtime
-tokio = { version = "1.0", features = ["macros", "rt-multi-thread"] }
+tokio = { version = "1.38", features = ["macros", "rt-multi-thread"] }
 # Url parsing
 url = "2.2"
