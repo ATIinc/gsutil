@@ -40,7 +40,7 @@ tame-gcs = { version = "0.14.0", features = ["signing"] }
 # Authentication
 tame-oauth = { version = "0.10", features = ["gcp"] }
 # Timestamp formatting
-time = { version = "0.3.35", features = ["formatting", "macros"] }
+time = { version = "0.3.47", features = ["formatting", "macros"] }
 # Async runtime
 tokio = { version = "1.0", features = ["macros", "rt-multi-thread"] }
 # Url parsing
